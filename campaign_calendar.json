@@ -22,5 +22,41 @@
     "scheduled_date": "2026-04-26",
     "scheduled_time": "05:00 PM",
     "post_type": "tweet"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Boost team productivity by 30% with intelligent automation. Our AI solution handles routine tasks, letting your experts focus on strategic growth. See how leading companies are transforming their operations.",
+    "hashtags": "#LinkedInForBusiness #AITransformation #Productivity #SaaS",
+    "image_description": "Professional infographic showing a 30% productivity increase with AI.",
+    "scheduled_date": "2026-04-27",
+    "scheduled_time": "10:00 AM",
+    "post_type": "post"
+  },
+  {
+    "platform": "LinkedIn",
+    "text": "Most businesses struggle with manual data entry. Smart businesses automate it. Our platform cuts data processing time by half, ensuring accuracy and freeing up valuable human capital. What could you achieve with that time back?",
+    "hashtags": "#DataAutomation #BusinessEfficiency #AIinBusiness #FutureofWork",
+    "image_description": "Short video demonstrating automated data entry.",
+    "scheduled_date": "2026-04-28",
+    "scheduled_time": "02:00 PM",
+    "post_type": "post"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Tired of endless paperwork? Our AI solution takes the grunt work out of your day, giving you back hours to spend on what you love. Imagine a workday with less stress and more creativity!",
+    "hashtags": "#AILife #WorkLifeBalance #AutomationBenefits #SmallBusiness",
+    "image_description": "Engaging image of a person enjoying free time, with a subtle AI theme.",
+    "scheduled_date": "2026-04-27",
+    "scheduled_time": "11:00 AM",
+    "post_type": "post"
+  },
+  {
+    "platform": "Facebook",
+    "text": "Unlock your team's full potential! Our AI automation tools are designed to handle the repetitive, so your team can innovate. Ready to see a real difference in your daily operations? Learn more!",
+    "hashtags": "#TeamProductivity #AIforGood #BusinessGrowth #TechSolutions",
+    "image_description": "Dynamic image of a diverse team collaborating effectively.",
+    "scheduled_date": "2026-04-28",
+    "scheduled_time": "03:00 PM",
+    "post_type": "post"
   }
 ]
