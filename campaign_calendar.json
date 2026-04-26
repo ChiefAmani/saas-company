@@ -1,29 +1,25 @@
-
 [
   {
     "platform": "Twitter",
-    "text": "Tired of repetitive tasks eating your day? AI automation isn't just a buzzword—it's your new secret weapon for reclaiming hours. Imagine what you could do with that extra time.",
-    "hashtags": "#AIAutomation #Productivity",
-    "image_description": "Abstract image of a clock with hands moving rapidly, symbolizing time-saving.",
-    "scheduled_date": "2024-07-20",
+    "text": "Stop drowning in busywork. AI automation isn't about replacing you; it's about freeing you from the mundane. Reclaim your focus for what truly matters.",
+    "hashtags": "#AIforBusiness #WorkSmarter #Automation",
+    "scheduled_date": "2026-04-26",
     "scheduled_time": "09:00 AM",
     "post_type": "tweet"
   },
   {
     "platform": "Twitter",
-    "text": "Most businesses still drown in manual workflows. Smart ones? They're deploying AI to automate the mundane, freeing teams for innovation. Which side are you on?",
-    "hashtags": "#AIBusiness #FutureOfWork",
-    "image_description": "Infographic showing a clear path from manual tasks to automated innovation.",
-    "scheduled_date": "2024-07-20",
+    "text": "Your competitors are still doing it manually. Smart businesses are automating with AI, gaining an unfair advantage. Don't get left behind.",
+    "hashtags": "#DigitalTransformation #AIBusiness #FutureofWork",
+    "scheduled_date": "2026-04-26",
     "scheduled_time": "01:00 PM",
     "post_type": "tweet"
   },
   {
     "platform": "Twitter",
-    "text": "Stop wasting talent on tedious tasks. AI automation empowers your team to focus on what truly matters: creativity, strategy, and growth. Unlock your team's full potential.",
-    "hashtags": "#TeamEmpowerment #AIforGrowth",
-    "image_description": "Image of a diverse team collaborating effectively, with a subtle AI interface overlay.",
-    "scheduled_date": "2024-07-20",
+    "text": "Imagine a world where every repetitive task is handled by AI. What could your team create? Automation fuels innovation.",
+    "hashtags": "#Innovation #AIandHumans #ProductivityHacks",
+    "scheduled_date": "2026-04-26",
     "scheduled_time": "05:00 PM",
     "post_type": "tweet"
   }
