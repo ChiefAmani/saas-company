@@ -1,0 +1,29 @@
+[
+  {
+    "platform": "Twitter",
+    "text": "Tired of repetitive tasks eating your day? AI automation isn't just a buzzword. It's your secret weapon to reclaim 10+ hours a week. Imagine what you'd do with that time.",
+    "hashtags": "#AIAutomation #Productivity #WorkSmarter",
+    "image_description": "",
+    "scheduled_date": "2023-10-27",
+    "scheduled_time": "10:00",
+    "post_type": "tweet"
+  },
+  {
+    "platform": "Twitter",
+    "text": "Most businesses still manually process data. Smart ones? They're deploying AI to handle it 10x faster, with zero coffee breaks. Stop working harder, start working smarter with AI.",
+    "hashtags": "#AI #BusinessAutomation #Efficiency",
+    "image_description": "",
+    "scheduled_date": "2023-10-27",
+    "scheduled_time": "14:00",
+    "post_type": "tweet"
+  },
+  {
+    "platform": "Twitter",
+    "text": "Unlock new growth. AI automation frees your team from the mundane, letting them focus on innovation and strategy. That's how you outpace the competition.",
+    "hashtags": "#Innovation #GrowthHacking #FutureOfWork",
+    "image_description": "",
+    "scheduled_date": "2023-10-27",
+    "scheduled_time": "18:00",
+    "post_type": "tweet"
+  }
+]
